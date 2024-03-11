@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class App {
     public static boolean isEven(int n) {
-        // % 
+        // %
         // 4 % 2 = 0
         // 3 % 2 = 1
         // 6 % 2 = 0
